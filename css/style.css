@@ -815,7 +815,7 @@ font-family: "Roboto", sans-serif;
         margin-bottom: 76px;
     }
     .places-card-img{
-        height: 350px;
+        margin-bottom: 25px;
     }
     .places-card-link{
         margin-bottom: 0;
@@ -827,7 +827,7 @@ font-family: "Roboto", sans-serif;
     .places-card-stats {
         max-width: 386px;
         margin-top: 10px;
-        bottom: 10px;
+        bottom: 20px;
     }
     .places-card-text {
         margin-bottom: 15px;
